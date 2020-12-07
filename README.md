@@ -22,6 +22,8 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
+</br>
+
 ### Let's Connect!!
 <a href="https://www.linkedin.com/in/tejas-trivedi-02b991194/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
