@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-trivedi&count_private=true&show_icons=true&theme=algolia" />
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-trivedi&hide=html&langs_count=6&count_private=true&theme=algolia&exclude_repo=Future_Price_Prediction_of_Products,Machine_Learning_Basics,Financial_AnalysisData-Science,Machine_Learning_Basic_models&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-trivedi&hide=html&langs_count=6&count_private=true&theme=algolia&exclude_repo=Future_Price_Prediction_of_Products,Machine_Learning_Basics,Financial_Analysis,Machine_Learning_Basic_models&layout=compact"/>
 </br>
 
 ### I am good at:
