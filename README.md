@@ -73,5 +73,5 @@
 <p align="center">
 <a href="https://github.com/tejas-trivedi">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-trivedi&theme=algolia" alt="tejas-trivedi" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-trivedi&hide=html&langs_count=6&count_private=true&theme=algolia&exclude_repo=Future_Price_Prediction_of_Products,Machine_Learning_Basics,Financial_Analysis,Machine_Learning_Basic_models&layout=compact"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-trivedi&hide=html&langs_count=6&count_private=true&theme=algolia&exclude_repo=Future_Price_Prediction_of_Products,Machine_Learning_Basics,Financial_Analysis,Machine_Learning_Basic_models,Operation-Research-Lab&layout=compact"/></a>
 </p>
