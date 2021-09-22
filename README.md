@@ -15,12 +15,12 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/code.gif">
 </a>
 
- - 🔭 I’m currently working on Automation.
+ - 🔭 I’m currently working on Server side programming.
  - 🌱 I’m currently learning deployment of ML models using Flask. 
  - 🤔 I’m looking for help with DSA
- - 💬 Ask me about Programming Concepts, Automation, APIs and backend development
+ - 💬 Ask me about- Literally anything. Let's find solutions to the most difficult problems xD.
  - 📫 How to reach me: tejas.99.dev@gmail.com
- - 😄 Pronouns: he/his/him
+ - 😄 Pronouns: he/him
  - ⚡ Fun fact: I listen songs while programming
  - 📝 Checkout my [Resume](https://drive.google.com/file/d/1TAMTh8yk5W5TfyWhCMqZ9GfEM4e4PEie/view?usp=sharing)
 
