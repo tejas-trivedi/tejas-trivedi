@@ -16,7 +16,7 @@
 </a>
 
  - 🔭 I’m currently working on Server side programming.
- - 🌱 I’m currently learning deployment of ML models using Flask. 
+ - 🌱 I’m currently learning deployment of ML models using Flask.
  - 🤔 I’m looking for help with DSA
  - 💬 Ask me about- Literally anything. Let's find solutions to the most difficult problems xD.
  - 📫 How to reach me: tejas.99.dev@gmail.com
@@ -60,7 +60,7 @@
 <a href="https://www.instagram.com/tejastrivedi_/">
   <img align="left" width="135px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br/> 
+<br/>
 <br/>
 
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
@@ -74,4 +74,9 @@
 <a href="https://github.com/tejas-trivedi">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-trivedi&theme=algolia" alt="tejas-trivedi" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-trivedi&hide=html&langs_count=6&count_private=true&theme=algolia&exclude_repo=Future_Price_Prediction_of_Products,Machine_Learning_Basics,Financial_Analysis,Machine_Learning_Basic_models,Operation-Research-Lab&layout=compact"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tejas-trivedi/tejas-trivedi/raw/output/github-contribution-grid-snake.svg"
+alt="snake"></center>
 </p>
