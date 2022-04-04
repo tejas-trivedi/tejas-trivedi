@@ -22,7 +22,7 @@
  - 📫 How to reach me: tejas.99.dev@gmail.com
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: I listen songs while programming
- - 📝 Checkout my [Resume](https://drive.google.com/file/d/1zmP86ggEojYCc4vTS3ujoDHRnhlcz-KO/view?usp=sharing)
+ - 📝 Checkout my [Resume](https://drive.google.com/file/d/1Y7ElUdI3YCutNQZyr1glgcfP6SNFG3QK/view?usp=sharing)
 
 <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100px" height="10px"></h2>
 
