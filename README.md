@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/Earth.gif" width="24" style="max-width:100%;">
   </a>
   print("Hey, there") !
   <a target="_blank">
-    <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/Hi.gif" width="40px" />
+    <img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/Hi.gif" width="40" />
   </a>
   <br/>
   <h3 align="center">There are (10^9 + 7) profiles on Github... Welcome to mine!</h3>
