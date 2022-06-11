@@ -66,7 +66,7 @@
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
 <br/>
 <br/>
-<img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 <br/>
 
