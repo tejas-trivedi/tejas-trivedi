@@ -24,7 +24,7 @@
  - ⚡ Fun fact: I listen songs while programming
  - 📝 Checkout my [Resume](https://drive.google.com/file/d/1EQu7DYYgoAOyLGxpC052EfscjuRup9ta/view?usp=sharing)
 
-<img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 ### Technologies and Tools:
 
@@ -48,7 +48,7 @@
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100px" height="10px"></h2>
+<img src="https://github.com/tejas-trivedi/tejas-trivedi/blob/main/border.gif" width="1100" height="10"></h2>
 
 ### Let's Connect!! <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="25px" style="max-width:100%;">
 <a href="https://www.linkedin.com/in/tejas-trivedi9/">
